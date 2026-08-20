@@ -1,22 +1,22 @@
 # System Information
 
-##Linux Distribution:
-* Ubuntu 24.04.4 LTS
-* Kernel Version: 6.8.0-136-generic
+## Linux Distribution
+* **Distribution:** Ubuntu 24.04.4 LTS
 
-##CPU Information:
-* Architecture: x86_64
-* CPU op-mode(s): 32-bit, 64-bit
-* Address sizes: 39 bits physical, 48 bits virtual
-* Byte Order: Little Endian
+## Kernel Version
+* **Kernel:** 6.8.0-136-generic
 
-##Total Memory:
-* Mem: 1.9Gi
-* Swap: 1.0Gi
+## CPU Information
+* **Architecture:** x86_64
+* **CPU Op-mode(s):** 32-bit, 64-bit
+* **Address Sizes:** 39 bits physical, 48 bits virtual
+* **Byte Order:** Little Endian
 
-##Available Disk Space:
-* Filesystem: /dev/vda1
-* Size: 196
-* Used: 5,4G
-* Avail: 136
-* Use: 30%
+## Total Memory
+* **RAM:** 1.9 GiB
+* **Swap:** 1.0 GiB
+
+## Available Disk Space
+| Filesystem | Size | Used | Available | Use% | Mounted On |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| `/dev/vda1` | 19 GiB | 5.4 GiB | 13 GiB | 30% | `/` |
