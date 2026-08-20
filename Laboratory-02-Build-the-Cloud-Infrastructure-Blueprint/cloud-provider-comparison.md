@@ -1,63 +1,28 @@
 # ☁️ Research the Major Cloud Providers
 
-> **Laboratory Activity 2:** Build the Cloud Infrastructure Blueprint  
-> **Course:** CCM101 - Cloud Infrastructure and Technologies  
-
 ---
 
-## 📌 Executive Summary
+## 📊 Core Cloud Infrastructure Comparison Table
 
-This research document analyzes the top public cloud service providers—**Amazon Web Services (AWS)**, **Microsoft Azure**, and **Google Cloud Platform (GCP)**. It outlines their primary service offerings, market focus, global footprint, and unique platform strengths to inform cloud infrastructure selection.
-
----
-
-## 📊 Major Cloud Providers Comparison
-
-| Provider Feature | 🟧 Amazon Web Services (AWS) | 🟦 Microsoft Azure | 🟥 Google Cloud Platform (GCP) |
+| Infrastructure Component | AWS | Microsoft Azure | Google Cloud Platform |
 | :--- | :--- | :--- | :--- |
-| **Parent Company** | Amazon | Microsoft | Alphabet |
-| **Market Launch** | 2006 | 2010 | 2008 |
-| **Primary Strength** | First-mover advantage, broadest service catalog | Deep enterprise and Windows integration | Data analytics, AI/ML, and containerization |
-| **Target Audience** | Enterprise, startups, general workloads | Enterprise, hybrid environments, active directory users | Data engineers, AI developers, container-native apps |
+| **Compute** | Amazon EC2, AWS Lambda, Amazon ECS / EKS | Azure Virtual Machines, Azure Functions, AKS | Compute Engine, Cloud Functions, GKE |
+| **Storage** | Amazon S3, Amazon EBS, Amazon EFS | Azure Blob Storage, Managed Disks, Azure Files | Cloud Storage, Persistent Disk, Filestore |
+| **Networking** | Amazon VPC, AWS ELB, AWS Shield | Azure Virtual Network (VNet), Load Balancer | Virtual Private Cloud (VPC), Cloud Load Balancing |
+| **Identity and Access Management (IAM)** | AWS IAM, AWS IAM Identity Center | Microsoft Entra ID (formerly Azure AD) | Google Cloud IAM |
 
 ---
 
-## 🔍 Core Service Mapping
+## ❓ Guide Questions & Analysis
 
-| Service Category | 🟧 AWS | 🟦 Azure | 🟥 GCP |
-| :--- | :--- | :--- | :--- |
-| **Virtual Compute** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
-| **Container Engine** | Amazon ECS / EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
-| **Serverless Compute** | AWS Lambda | Azure Functions | Cloud Functions |
-| **Object Storage** | Amazon S3 | Azure Blob Storage | Cloud Storage |
-| **Block Storage** | Amazon EBS | Azure Managed Disks | Persistent Disk |
-| **Relational Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
-| **Virtual Networking** | Amazon VPC | Azure Virtual Network (VNet) | Virtual Private Cloud (VPC) |
-| **Identity & Access** | AWS IAM | Microsoft Entra ID (Azure AD) | Cloud IAM |
+### 1. Which cloud provider offers the broadest range of services? Explain your answer.
+Amazon Web Services (AWS) offers the broadest range of services among the top cloud providers. As the first major platform to launch in the cloud computing space, AWS features the most mature ecosystem with over 200 fully featured services spanning compute, storage, databases, analytics, and IoT.
 
----
+### 2. Which cloud platform would you recommend for an organization that primarily uses Microsoft products? Why?
+Microsoft Azure is the best recommendation for organizations deeply reliant on Microsoft products and software. Azure provides seamless native integration with enterprise tools such as Windows Server, Active Directory, SQL Server, and Microsoft 365, allowing companies to easily manage hybrid cloud environments while leveraging existing software licensing models.
 
-## 🛠️ Provider Architectural Strengths
+### 3. Which platform is widely recognized for Artificial Intelligence (AI), Machine Learning (ML), and Kubernetes services?
+Google Cloud Platform (GCP) is widely recognized as an industry leader in Artificial Intelligence, Machine Learning, and Kubernetes services. Because Google originally created Kubernetes, GCP offers Google Kubernetes Engine (GKE)—the most advanced managed container platform—alongside cutting-edge AI and data analytics tools such as BigQuery and Vertex AI.
 
-### 1. 🟧 Amazon Web Services (AWS)
-* **Market Pioneer:** Offers the most extensive set of infrastructure and platform tools.
-* **Global Footprint:** Massive network of global Regions and Availability Zones ensuring low latency and high availability.
-* **Ecosystem Support:** Vast third-party marketplace integration and extensive developer community support.
-
-### 2. 🟦 Microsoft Azure
-* **Enterprise Synergy:** Seamless integration with existing Microsoft server infrastructure, Windows Active Directory, and Office 365.
-* **Hybrid Cloud Leadership:** Strong hybrid cloud solutions like Azure Arc and Azure Stack.
-* **Cost Efficiency:** Licensing discounts for organizations already utilizing Microsoft enterprise software.
-
-### 3. 🟥 Google Cloud Platform (GCP)
-* **Kubernetes Leader:** Originator of Kubernetes with industry-leading managed container orchestration (GKE).
-* **Data & Machine Learning:** Cutting-edge big data processing tools like BigQuery and TensorFlow AI capabilities.
-* **Global Network:** Utilizes Google's high-speed private global fiber network for rapid data transport.
-
----
-
-## 🎯 Strategic Selection Guidelines
-
-* **Choose AWS if:** You need maximum service variety, extensive third-party integration, and proven global scale.
-* **Choose Azure if:** Your ecosystem relies heavily on Microsoft products, Active Directory, and hybrid enterprise setups.
-* **Choose GCP if:** Your core focus is containerized microservices, big data analytics, or advanced AI/ML workloads.
+### 4. What similarities did you observe among the three cloud providers?
+All three major cloud providers share core functional architectures, offering equivalent solutions across core categories like compute, object/block storage, virtual networking, and identity management. Additionally, they all operate under a pay-as-you-go pricing model and rely on globally distributed infrastructure comprised of geographically separated Regions and Availability Zones to deliver high availability and redundancy.
