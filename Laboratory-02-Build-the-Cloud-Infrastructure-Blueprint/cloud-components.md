@@ -1,4 +1,4 @@
-# ☁️ Checkpoint 3: Identify Cloud Infrastructure Components
+# ☁️ Identify Cloud Infrastructure Components
 
 > **Laboratory Activity 2:** Build the Cloud Infrastructure Blueprint  
 > **Course:** CCM101 - Cloud Infrastructure and Technologies  
