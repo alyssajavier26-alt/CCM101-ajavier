@@ -1,4 +1,4 @@
-# ☁️ Cloud Infrastructure Assessment Report
+# ☁️ Investigate the Cloud Server
 
 > **Environment:** KillerCoda Cloud Playground  
 > **Target Instance:** `ubuntu`  
