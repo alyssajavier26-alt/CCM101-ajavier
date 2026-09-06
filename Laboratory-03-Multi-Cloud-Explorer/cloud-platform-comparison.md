@@ -29,3 +29,15 @@ Google Cloud Platform (GCP) leads in Artificial Intelligence, Machine Learning, 
 
 ### 4. Which cloud platform would you personally choose and why?
 I would personally choose Google Cloud Platform (GCP) due to its user-friendly console interface and superior native containerization support. GCP's high-speed global fiber network and advanced BigQuery analytics engine make it an exceptional environment for modern software development. Its innovative suite of tools provides a streamlined developer workflow without unnecessary configuration overhead.
+
+---
+
+## 🔄 Match the Cloud Services
+
+| Service Category | AWS (Amazon Web Services) | Microsoft Azure | GCP (Google Cloud Platform) |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine (GCE) |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage (GCS) |
+| **Identity Management** | AWS IAM | Microsoft Entra ID *(Azure AD)* | Google Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
