@@ -1,19 +1,40 @@
-# CCM101 - Cloud Computing Portfolio
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alyssa%20Javier&fontSize=50&subtext=BSIT%204th%20Year%20%7C%20CCM101%20-%20Cloud%20Computing&subFontSize=18" width="100%" alt="Alyssa Javier Nameplate" />
+</div>
 
-## Overview
-Hi! I'm Alyssa Javier, a student focusing on Cloud Computing and Systems Administration. This repository serves as my official portfolio, holding all my laboratory activities, system configurations, and project documentations throughout the semester.
+### About Me 
+* 🎓 **Name:** Alyssa Javier
+* 📚 **Course & Year:** Bachelor of Science in Information Technology (BSIT) – 4th Year
+* 📖 **Subject:** CCM101 - Cloud Computing Management
 
-## Objectives
-* Track and document all cloud computing laboratory activities.
-* Maintain clean CLI system configurations and directory structures.
-* Manage version control and portfolio updates using Git and GitHub.
+---
 
-## Laboratory Modules
-* *Laboratory 01:* Welcome to the Cloud (KillerCoda Linux setup, CLI navigation, and GitHub integration)
+### Objectives 
+* 🚀 To gain practical knowledge and hands-on experience in cloud infrastructure, virtualization, and multi-cloud architecture.
+* 💻 To develop scalable software applications and build functional, user-focused technology solutions.
+* 🛠️ To strengthen fundamental technical capabilities across cloud platforms, database systems, and software engineering.
 
-## Skills Applied
-* Linux system administration and user management.
-* Command-line navigation and file management.
-* Markdown documentation practices.
-* Version control workflows using Git and GitHub.
-# CCM101-ajavier
+---
+
+### Skills 
+* ☁️ **Cloud Computing:** Basic Cloud Architecture, Multi-Cloud Foundations (AWS, Azure, GCP)
+* 💻 **Programming & Frameworks:** Basic C#, C++, HTML5, CSS
+* 🎮 **Game Development:** Basic Unity
+* 🗄️ **Database & Tools:** Basic MySQL, Git, Linux Terminal / Command Line
+
+---
+
+### Connect With Me 
+<p align="left">
+  <a href="https://github.com/ajavier"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:alyssajavier26@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### GitHub Stats 🎯
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajavier&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajavier&layout=compact&theme=dark" width="48%" />
+</p>
