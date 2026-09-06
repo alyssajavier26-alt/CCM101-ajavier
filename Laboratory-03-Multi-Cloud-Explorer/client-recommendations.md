@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 Checkpoint 6 – Multi-Cloud Decision Matrix
+## 📊 Multi-Cloud Decision Matrix
 
 | Business Requirement | Recommended Platform | Justification |
 | :--- | :--- | :--- |
