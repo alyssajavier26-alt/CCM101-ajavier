@@ -45,3 +45,16 @@
   1. **Amazon CloudFront:** Global Content Delivery Network (CDN) for fast asset delivery.
   2. **Amazon Aurora:** High-performance managed relational database with automated global replication.
   3. **AWS Auto Scaling:** Automatically adjusts compute capacity based on incoming customer demand.
+
+---
+
+## 📊 Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+| :--- | :--- | :--- |
+| **Startup Company** | **AWS** | Flexible pay-as-you-go pricing, extensive startup credit programs (AWS Activate), and rapid auto-scaling capabilities. |
+| **Enterprise Organization** | **Microsoft Azure** | Seamless enterprise governance, deep hybrid cloud support via Azure Arc, and cost savings with Azure Hybrid Benefit licensing. |
+| **Microsoft Environment** | **Microsoft Azure** | Direct native integration with Windows Server, SQL Server, and Microsoft Entra ID (formerly Azure AD) identity management. |
+| **AI / Machine Learning** | **Google Cloud Platform (GCP)** | Industry-leading AI/ML tools through Vertex AI, TensorFlow integration, and custom Tensor Processing Unit (TPU) hardware. |
+| **Kubernetes Deployment** | **Google Cloud Platform (GCP)** | Created by Google, Google Kubernetes Engine (GKE) provides the most advanced, automated, and seamless managed Kubernetes environment. |
+| **Global Web Application** | **AWS** | Unmatched global infrastructure maturity, vast CDN network (Amazon CloudFront), and proven multi-region high availability. |
