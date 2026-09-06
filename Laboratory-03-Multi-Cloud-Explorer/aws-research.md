@@ -49,12 +49,5 @@ The **AWS Management Console** is a web-based graphical user interface that prov
 ---
 
 ## 📸 Platform Evidence
-*Official AWS Console Preview Placeholder:*
 
-```text
-+-----------------------------------------------------------------------------------+
-|  aws  Services  [ Search services, resources... ]               Console Home   |
-+-----------------------------------------------------------------------------------+
-|  AWS Management Console                                                           |
-|  Recently Visited: EC2, S3, VPC, IAM                                              |
-+-----------------------------------------------------------------------------------+
+![AWS Management Console](screenshots/aws-homepage.png)
