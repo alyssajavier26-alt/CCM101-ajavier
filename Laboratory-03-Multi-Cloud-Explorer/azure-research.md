@@ -49,11 +49,5 @@ The **Azure Portal** is a unified, browser-based administrative dashboard that e
 ---
 
 ## 📸 Platform Evidence
-*Official Azure Portal Preview Placeholder:*
 
-```text
-+-----------------------------------------------------------------------------------+
-|  Microsoft Azure  [ Search resources, services, and docs... ]      Cloud Shell   |
-+-----------------------------------------------------------------------------------+
-|  Azure services: Virtual machines, App services, Storage accounts, Virtual networks|
-+-----------------------------------------------------------------------------------+
+![Azure Portal Console](screenshots/azure-homepage.png)
