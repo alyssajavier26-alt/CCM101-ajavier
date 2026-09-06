@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alyssa%20Javier&fontSize=50&subtext=BSIT%204th%20Year%20%7C%20CCM101%20-%20Cloud%20Computing&subFontSize=18" width="100%" alt="Alyssa Javier Nameplate" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alyssa%20Javier&fontSize=50&subtext=BSIT%204th%20Year%20%7C%20CCM101%20-%20Cloud%20Computing&subFontSize=18" width="100%" alt="Alyssa Javier Nameplate" />
 </div>
 
-### About Me 
+### About Me 👤
 * 🎓 **Name:** Alyssa Javier
 * 📚 **Course & Year:** Bachelor of Science in Information Technology (BSIT) – 4th Year
 * 📖 **Subject:** CCM101 - Cloud Computing Management
 
 ---
 
-### Objectives 
+### Objectives 🎯
 * 🚀 To gain practical knowledge and hands-on experience in cloud infrastructure, virtualization, and multi-cloud architecture.
 * 💻 To develop scalable software applications and build functional, user-focused technology solutions.
 * 🛠️ To strengthen fundamental technical capabilities across cloud platforms, database systems, and software engineering.
 
 ---
 
-### Skills 
+### Skills 🛠️
 * ☁️ **Cloud Computing:** Basic Cloud Architecture, Multi-Cloud Foundations (AWS, Azure, GCP)
 * 💻 **Programming & Frameworks:** Basic C#, C++, HTML5, CSS
 * 🎮 **Game Development:** Basic Unity
@@ -24,10 +24,10 @@
 
 ---
 
-### Connect With Me 
+### Connect With Me 🎈
 <p align="left">
-  <a href="https://github.com/ajavier"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:alyssajavier26@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/alyssajavier26-alt"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:example@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -35,6 +35,6 @@
 ### GitHub Stats 🎯
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajavier&show_icons=true&theme=dark" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajavier&layout=compact&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alyssajavier26-alt&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssajavier26-alt&layout=compact&theme=dark" width="48%" />
 </p>
