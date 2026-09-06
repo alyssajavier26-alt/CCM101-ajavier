@@ -49,11 +49,5 @@ The **Google Cloud Console** provides a web interface to inspect, manage, and mo
 ---
 
 ## 📸 Platform Evidence
-*Official GCP Console Preview Placeholder:*
 
-```text
-+-----------------------------------------------------------------------------------+
-|  Google Cloud  [ Search products, resources, docs... ]             Cloud Shell   |
-+-----------------------------------------------------------------------------------+
-|  Project: My-First-Project | Quick Launch: Compute Engine, Cloud Storage, GKE     |
-+-----------------------------------------------------------------------------------+
+![Google Cloud Console](screenshots/gcp-homepage.png)
