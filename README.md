@@ -10,6 +10,7 @@
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cloud-16.svg" width="14" height="14" /> **Laboratory 01:** Welcome to the Cloud
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/server-16.svg" width="14" height="14" /> **Laboratory 02:** Build the Cloud Infrastructure Blueprint
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/globe-16.svg" width="14" height="14" /> **Laboratory 03:** Multi-Cloud Explorer
+  * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/container-16.svg" width="14" height="14" /> **Laboratory 04:** Cloud-Native Engineer
 
 ---
 
