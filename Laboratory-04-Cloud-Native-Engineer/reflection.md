@@ -1,0 +1,7 @@
+# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/comment-discussion-16.svg" width="28" height="28" /> Mission Reflection
+
+---
+
+### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/pencil-16.svg" width="20" height="20" /> Cloud-Native Engineering Insights
+
+Deploying applications using Docker containers highlights a fundamental shift from traditional virtual machine architectures, where starting a VM requires initializing an entire guest operating system and hypervisor allocation taking minutes, whereas a Docker container shares the host kernel to execute as an isolated process that boots in seconds. Port mapping like `-p 8080:80` is essential because containers operate within isolated network spaces; it bridges host port `8080` to container port `80` so external HTTP requests can reach the web server. Furthermore, executing `docker rm` completely deletes non-persistent data stored inside the writable container layer, emphasizing that containers are designed to be ephemeral and require external volumes for persistent data. This shift redefines software engineering by bridging the gap between developers and operations (DevOps), allowing developers to package applications with exact dependencies into portable images while operations teams scale them consistently across production environments. Ultimately, constructing this cloud computing portfolio on GitHub demonstrates steady growth as a Cloud-Native Engineer, progressing from basic cloud concepts to hands-on container orchestration.
