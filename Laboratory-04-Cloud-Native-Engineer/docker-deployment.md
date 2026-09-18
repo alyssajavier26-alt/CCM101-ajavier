@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/container-16.svg" width="28" height="28" /> Docker Deployment & Lifecycle Management
+# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/container-16.svg" width="28" height="28" /> The Container Lifecycle
 
 ---
 
