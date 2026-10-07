@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="28" height="28" /> Mission 5: The Cloud Data Engineer
+# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="28" height="28" /> The Cloud Data Engineer
 
 ---
 
