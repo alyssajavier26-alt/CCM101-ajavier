@@ -12,6 +12,7 @@
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/globe-16.svg" width="14" height="14" /> **Laboratory 03:** Multi-Cloud Explorer
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/container-16.svg" width="14" height="14" /> **Laboratory 04:** Cloud-Native Engineer
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/package-16.svg" width="14" height="14" /> **Laboratory 05:** Cloud Data Engineer
+  * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="14" height="14" /> **Laboratory 06:** Cloud Deployment Engineer
 
 ---
 
@@ -23,10 +24,10 @@
 ---
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cpu-16.svg" width="22" height="22" /> Skills
-- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cloud-16.svg" width="16" height="16" /> **Cloud Computing:** Basic Cloud Architecture
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cloud-16.svg" width="16" height="16" /> **Cloud Computing:** Basic Cloud Architecture, Docker & Docker Compose
 - <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16" /> **Programming & Frameworks:** Basic C#, Java, C++, HTML5, CSS
 - <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16" /> **Game Development:** Basic Unity
-- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="16" height="16" /> **Database & Tools:** Basic MySQL, Git, Linux Terminal / Command Line
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="16" height="16" /> **Database & Tools:** Basic MySQL, MariaDB, Git, Linux Terminal / Command Line
 
 ---
 
