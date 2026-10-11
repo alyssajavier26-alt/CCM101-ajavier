@@ -3,29 +3,30 @@
 </div>
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-16.svg" width="22" height="22" /> About Me
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="16" height="16" /> **Name:** Alyssa Rose Flores Javier
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mortar-board-16.svg" width="16" height="16" /> **Course & Year:** Bachelor of Science in Information Technology (BSIT) – 4th Year
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/book-16.svg" width="16" height="16" /> **Subject:** CCM101 - Cloud Computing
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" /> **Completed Laboratory Activities:**
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/person-16.svg" width="16" height="16" /> **Name:** Alyssa Rose Flores Javier
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mortar-board-16.svg" width="16" height="16" /> **Course & Year:** Bachelor of Science in Information Technology (BSIT) – 4th Year
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/book-16.svg" width="16" height="16" /> **Subject:** CCM101 - Cloud Computing
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/repo-16.svg" width="16" height="16" /> **Completed Laboratory Activities:**
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cloud-16.svg" width="14" height="14" /> **Laboratory 01:** Welcome to the Cloud
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/server-16.svg" width="14" height="14" /> **Laboratory 02:** Build the Cloud Infrastructure Blueprint
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/globe-16.svg" width="14" height="14" /> **Laboratory 03:** Multi-Cloud Explorer
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/container-16.svg" width="14" height="14" /> **Laboratory 04:** Cloud-Native Engineer
+  * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/package-16.svg" width="14" height="14" /> **Laboratory 05:** Cloud Data Engineer
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/goal-16.svg" width="22" height="22" /> Objectives
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-16.svg" width="16" height="16" /> To gain practical knowledge and hands-on experience in cloud infrastructure, virtualization, and multi-cloud architecture.
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16" /> To develop scalable software applications and build functional, user-focused technology solutions.
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="16" height="16" /> To strengthen fundamental technical capabilities across cloud platforms, database systems, and software engineering.
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/rocket-16.svg" width="16" height="16" /> To gain practical knowledge and hands-on experience in cloud infrastructure, virtualization, and multi-cloud architecture.
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16" /> To develop scalable software applications and build functional, user-focused technology solutions.
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="16" height="16" /> To strengthen fundamental technical capabilities across cloud platforms, database systems, and software engineering.
 
 ---
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cpu-16.svg" width="22" height="22" /> Skills
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cloud-16.svg" width="16" height="16" /> **Cloud Computing:** Basic Cloud Architecture
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16" /> **Programming & Frameworks:** Basic C#, Java, C++, HTML5, CSS
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16" /> **Game Development:** Basic Unity
-* <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="16" height="16" /> **Database & Tools:** Basic MySQL, Git, Linux Terminal / Command Line
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/cloud-16.svg" width="16" height="16" /> **Cloud Computing:** Basic Cloud Architecture
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/code-16.svg" width="16" height="16" /> **Programming & Frameworks:** Basic C#, Java, C++, HTML5, CSS
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/device-desktop-16.svg" width="16" height="16" /> **Game Development:** Basic Unity
+- <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/database-16.svg" width="16" height="16" /> **Database & Tools:** Basic MySQL, Git, Linux Terminal / Command Line
 
 ---
 
