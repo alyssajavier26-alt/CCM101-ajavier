@@ -11,5 +11,5 @@ The `services:` block defines the individual multi-container applications (or mi
 The Nextcloud application container located the database container through the internal Docker bridge network using the **`MYSQL_HOST=database`** environment variable. Because Docker Compose automatically creates a custom bridge network for each project, containers can resolve each other using their defined service names (`database`) as hostnames.
 
 #### 3. What is the difference between `docker run` and `docker-compose up -d`?
-* **`docker run`**: A manual, single-container command where all parameters (ports, environment variables, network bindings, and image names) must be explicitly typed out every time. It is ideal for quick tests but cumbersome for multi-container apps.
-* **`docker-compose up -d`**: An Infrastructure as Code (IaC) command that reads a declarative YAML configuration file (`docker-compose.yml`) to provision, link, and run multiple containers simultaneously in the background with a single command[cite: 3].
+- **`docker run`**: A manual, single-container command where all parameters (ports, environment variables, network bindings, and image names) must be explicitly typed out every time. It is ideal for quick tests but cumbersome for multi-container apps.
+- **`docker-compose up -d`**: An Infrastructure as Code (IaC) command that reads a declarative YAML configuration file (`docker-compose.yml`) to provision, link, and run multiple containers simultaneously in the background with a single command.

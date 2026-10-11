@@ -10,12 +10,12 @@ Congratulations! Your flawless work in deploying data storage solutions earned y
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/checklist-16.svg" width="20" height="20" /> Objectives
 
-* Explain multi-tier application architecture and container decoupling.
-* Understand the structure and purpose of a `docker-compose.yml` file.
-* Use Linux command-line text editors (`nano`) to create infrastructure configurations.
-* Deploy a multi-container application stack (Nextcloud + MariaDB) using Docker Compose.
-* Document deployment procedures and IaC principles using Markdown.
-* Continue expanding a professional GitHub Cloud Computing Portfolio[cite: 1].
+- Explain multi-tier application architecture and container decoupling.
+- Understand the structure and purpose of a `docker-compose.yml` file.
+- Use Linux command-line text editors (`nano`) to create infrastructure configurations.
+- Deploy a multi-container application stack (Nextcloud + MariaDB) using Docker Compose.
+- Document deployment procedures and IaC principles using Markdown.
+- Continue expanding a professional GitHub Cloud Computing Portfolio.
 
 ---
 
@@ -32,8 +32,8 @@ Congratulations! Your flawless work in deploying data storage solutions earned y
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mortar-board-16.svg" width="20" height="20" /> Skills Learned
 
-* Orchestrating multi-container systems using Docker Compose and YAML[cite: 3].
-* Linking web and database tiers securely via internal Docker networks and environment variables.
-* Translating manual container deployment steps into automated Infrastructure as Code (IaC) templates[cite: 3].
-* Accessing remote cloud container services via port forwarding.
-* Authoring professional technical documentation using Markdown and GitHub Octicons.
+- Orchestrating multi-container systems using Docker Compose and YAML.
+- Linking web and database tiers securely via internal Docker networks and environment variables.
+- Translating manual container deployment steps into automated Infrastructure as Code (IaC) templates.
+- Accessing remote cloud container services via port forwarding.
+- Authoring professional technical documentation using Markdown and GitHub Octicons.
