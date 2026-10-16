@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alyssa%20Rose%20Flores%20Javier&fontSize=42&subtext=BSIT%20Student%20%7C%204th%20Year%20%7C%20CCM101%20-%20Cloud%20Computing&subFontSize=18" width="100%" alt="Alyssa Rose Flores Javier Nameplate" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alyssa%20Rose%20Flores%20Javier&fontSize=42&subtext=BSIT%20Student%20%7C%204th%20Year%20%7C%20CCM101%20-%20Cloud%20Computing" width="100%" alt="Alyssa Rose Flores Javier Nameplate" />
 </div>
 
 ### <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/mark-github-16.svg" width="22" height="22" /> About Me
@@ -13,6 +13,7 @@
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/container-16.svg" width="14" height="14" /> **Laboratory 04:** Cloud-Native Engineer
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/package-16.svg" width="14" height="14" /> **Laboratory 05:** Cloud Data Engineer
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="14" height="14" /> **Laboratory 06:** Cloud Deployment Engineer
+  * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/pulse-16.svg" width="14" height="14" /> **Laboratory 07:** Cloud Operations Engineer
 
 ---
 
