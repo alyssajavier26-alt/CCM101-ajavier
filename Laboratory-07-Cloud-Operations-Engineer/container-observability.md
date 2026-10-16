@@ -18,4 +18,4 @@ Application logs are vital for troubleshooting because they record chronological
 
 - **Container Name:** client-website
 - **CPU Percentage:** 0.00%
-- **Memory Usage:** 3.5MiB
+- **Memory Usage:** 2.742MiB
