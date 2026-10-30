@@ -14,6 +14,7 @@
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/package-16.svg" width="14" height="14" /> **Laboratory 05:** Cloud Data Engineer
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/tools-16.svg" width="14" height="14" /> **Laboratory 06:** Cloud Deployment Engineer
   * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/pulse-16.svg" width="14" height="14" /> **Laboratory 07:** Cloud Operations Engineer
+  * <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/shield-16.svg" width="14" height="14" /> **Laboratory 08:** Cloud Security Engineer
 
 ---
 
