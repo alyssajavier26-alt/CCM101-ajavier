@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="28" height="28" /> Laboratory 09: The Cloud Automation Engineer
+# <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/terminal-16.svg" width="28" height="28" /> The Cloud Automation Engineer
 
 ---
 
